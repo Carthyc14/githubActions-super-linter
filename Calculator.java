@@ -2,7 +2,6 @@ package com.example;
 
 // Calculator class
 
-
 public class Calculator {
 
     /** Adds two integers. */
